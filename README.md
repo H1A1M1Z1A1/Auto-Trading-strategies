@@ -1,1 +1,1 @@
-# cryptobot
+# Auto Trading Algorithm (CRYPTO)
