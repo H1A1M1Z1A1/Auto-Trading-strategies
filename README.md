@@ -1,1 +1,1 @@
-# Auto Trading Algorithm (CRYPTO)
+
