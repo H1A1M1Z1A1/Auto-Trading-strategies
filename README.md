@@ -1,1 +1,2 @@
 
+Buy at=MA25 CROSSES MA50
